@@ -1,5 +1,5 @@
 # covid19web
-This is covid19 mangmnet system for covid19 patience. In this project they allowed patienet to see the sysmpotoms of the covid and than apply for the covid test if they feel affetced. 
+This is covid19 mangmnet system for covid19 patience. In this project they allowed patienet to see the symptoms  of the covid19 and than apply for the covid test if they feel affetced. 
 How to run the COVID19 Testing Management System Using PHP and MySQL
 
 Download the zip file
