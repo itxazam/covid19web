@@ -31,3 +31,5 @@ User can visit the application through a URL.
 Testing: This section divided into two parts. One is for new user and another one is for registered user. New user(First-time user) needs to provide personal and testing Information. A registered user only needs to provide test information, their personal information will be fetched from the database.
 Report: In this section, Users can search their test report using order number, name and registered mobile number.
 Dashboard: In this section, the User can see the in which State of how many tests are done.
+
+
