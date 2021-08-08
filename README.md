@@ -13,6 +13,7 @@ Run the script http://localhost/covid19
 Admin Credential
 Username: admin
 Password: Test@123
+
 **Admin Module**
 
 Admin is the superuser of the website who can manage everything on the website. Admin can log in through the login page
@@ -23,6 +24,7 @@ Testing: In this section, the admin can manage all the tests like assign the tes
 Report: In this section, the admin can generate two types of report. One is between dates reports and another one is by search. Admin can search the report by order number, name and mobile number.
 Notification: In this section, the admin will get a notification for every new test request (notification bell).
 Admin can also update his profile, change the password and recover the password.
+
 **User(Patient) Module**
 
 User can visit the application through a URL.
