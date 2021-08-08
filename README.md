@@ -13,6 +13,7 @@ Run the script http://localhost/covid19
 Admin Credential
 Username: admin
 Password: Test@123
+![](css/web.png)
 
 **Admin Module**
 
