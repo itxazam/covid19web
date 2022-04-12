@@ -1,0 +1,6 @@
+1) Doctor documation all reqirements
+
+2) Medical store information with location
+
+3) Labatory information with location
+
